@@ -1,6 +1,6 @@
 ---
 title: GazeboDomainRandomization
-summary: "This is an implementation of some Domain Randomization tools within the ROS+Gazebo framework, following the work of Tobin et al. "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real Worl"."
+summary: "This is an implementation of some Domain Randomization tools within the ROS+Gazebo framework, following the work of Tobin et al.'s 'Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real Worl'."
 tags:
 - Unsupervised Learning
 # date: "2019-06-01T00:00:00Z"
@@ -9,7 +9,7 @@ tags:
 external_link: "https://github.com/Near32/GazeboDomainRandomization"
 
 image:
-  caption: Example application
+  caption: Example application.
   focal_point: Smart
 
 # links:
