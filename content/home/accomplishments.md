@@ -38,7 +38,7 @@ item:
   description: ""
   organization: edX
   organization_url: https://www.edx.org
-  title: 6.832x: Underactuated Robotics
+  title: "6.832x: Underactuated Robotics"
   url: https://www.edx.org/course/underactuated-robotics-2
 - certificate_url: https://verify.edx.org/cert/85b23dbf698b419491fbf2b21ea51c6b
   date_end: ""
