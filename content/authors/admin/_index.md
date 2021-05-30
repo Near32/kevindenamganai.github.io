@@ -1,39 +1,47 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kevin Denamganaï
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: IGGI PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of York
+  url: https://www.york.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in (Natural) Language Emergence & Grounding, Unsupervised Representation Learning and Deep ((Multi-Agent) Reinforcement/Imitation) Learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Unsupervised Representation Learning
+- Language Grounding
+- Language Emergence
+- Deep Reinforcement Learning
+- Basketball
+- Kendo
+- Meditation
+- Astronomy
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: IGGI PhD Student
+    institution: University of York
+    year: 2022
+  - course: Master Recherche - Intelligence Artificiel et Robotique
+    institution: Université de Cergy-Pontoise
+    year: 2017
+  - course: Diplôme d'ingénieur - Informatique et Systèmes
+    institution: Ecole National Supérieur de l'Électronique et de ses Applications
+    year: 2017
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Osaka Prefecture University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +53,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://twitter.com/KeviDenam
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=PPdQb4QAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Near32
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kevin-denamgana%C3%AF-66131386/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +78,12 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Good morning! (maybe?) My name is Kevin Denamganaï, I am a PhD Student at the University of York, in the context of the IGGI program. I am advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+{{< staticref "https://scholar.google.com/citations?user=Yl5OycsAAAAJ" "newtab" >}}Dr James Alfred Walker{{< /staticref >}}
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< staticref "https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ" "newtab" >}}Dr Sondess Missaoui{{< /staticref >}}
+
+My main research is in Language Emergence and Grounding, aiming to understand how compositional communication emerges and whether it is linked to systematicity/(algebraic) generalisation abilities. As a coping mechanism, when I am stuck in this main research, I tend to be curious about Unsupervised Representation Learning and Multi-Agent Deep Reinforcement Learning, trying to understand how (situated) cooperation emerges.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
