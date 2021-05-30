@@ -78,8 +78,10 @@ email: ""
 highlight_name: false
 ---
 
-Good morning! (maybe?) My name is Kevin Denamganaï, I am a PhD Student at the University of York, in the context of the [IGGI program](https://iggi.org.uk/). I am advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ).
+Good morning (maybe?)! My name is Kevin Denamganaï, I am a PhD Student at the University of York, in the context of the [IGGI program](https://iggi.org.uk/). I am advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ).
 
-My main research is in Language Emergence and Grounding, aiming to understand how compositional communication emerges and whether it is linked to systematicity/(algebraic) generalisation abilities. As a coping mechanism, when I am stuck in this main research, I tend to be curious about Unsupervised Representation Learning and Multi-Agent Deep Reinforcement Learning, trying to understand how (situated) cooperation emerges.
+My main research is in Language Emergence and Grounding, aiming to understand how compositional communication emerges and whether it is linked to systematicity/(algebraic) generalisation abilities. 
+
+As a coping mechanism, when I am stuck in this main research, I tend to be inquisitive about Unsupervised Representation Learning and Multi-Agent Deep Reinforcement Learning, trying to understand how (situated) cooperation emerges.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2020_12_v1.pdf" "newtab" >}}resumé{{< /staticref >}}.
