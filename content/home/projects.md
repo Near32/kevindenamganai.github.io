@@ -2,12 +2,13 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
+active: true 
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Projects
 subtitle: ''
@@ -27,10 +28,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Multi-Agent
+    tag: Multi-Agent
+  - name: Language
+    tag: Language
+  - name: Reinforcement Learning
+    tag: Reinforcement Learning
+  - name: Unsupervised Learning
+    tag: Unsupervised Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
