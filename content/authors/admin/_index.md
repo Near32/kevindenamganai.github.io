@@ -39,7 +39,7 @@ education:
   - course: Diplôme d'ingénieur - Informatique et Systèmes
     institution: Ecole National Supérieur de l'Électronique et de ses Applications
     year: 2017
-  - course: MEng in Artificial Intelligence
+  - course: MEng in Electrical Engineering and Information Science
     institution: Osaka Prefecture University
     year: 2017
 
