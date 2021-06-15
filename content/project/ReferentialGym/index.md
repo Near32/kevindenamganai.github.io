@@ -28,7 +28,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 This framework provides out-of-the-box implementations of Referential Games variants in order to study the emergence of artificial languages using deep learning, relying on [PyTorch](https://www.pytorch.org). 
