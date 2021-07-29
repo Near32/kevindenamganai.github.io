@@ -33,7 +33,7 @@ education:
   - course: IGGI PhD Student
     institution: University of York
     year: 2022
-  - course: Master Recherche - Intelligence Artificiel et Robotique
+  - course: Master Recherche - Intelligence Artificielle et Robotique
     institution: Université de Cergy-Pontoise
     year: 2017
   - course: Diplôme d'ingénieur - Informatique et Systèmes
