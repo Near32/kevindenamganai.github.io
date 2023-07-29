@@ -84,4 +84,4 @@ My main research is in Language Emergence and Grounding to support cooperation, 
 
 When I am stuck in this main research, I cope by letting my curiosity loose and so I am usually inquisitive about Unsupervised Representation Learning and Multi-Agent Deep Reinforcement Learning, trying to understand more about the emergence of (situated) cooperation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2021_07_v1.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2023_07.pdf" "newtab" >}}resumé{{< /staticref >}}.
